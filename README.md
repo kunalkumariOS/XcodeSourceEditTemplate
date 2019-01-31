@@ -12,7 +12,7 @@ var age: Double
 ```
 - Select the above two variables
 - Go to Editor
-- You will see the name of the class.
+- You will see XcodeSourceEditTemplate option, click on it.
 - The initialiser will be created just below the variables.
 ```
 init(name: String, age: Double) {
