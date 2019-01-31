@@ -50,7 +50,6 @@ class SourceEditorCommand: NSObject, XCSourceEditorCommand {
         })
         initCode += "\n}"
         initCode = initCode.replacingOccurrences(of: "Optional(\"", with: "").replacingOccurrences(of: "\")", with: "")
-        //invocation.buffer.lines.
         invocation.buffer.lines.add("\n")
         invocation.buffer.lines.add(initCode)
         
