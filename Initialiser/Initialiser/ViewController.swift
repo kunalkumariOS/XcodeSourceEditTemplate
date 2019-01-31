@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Initialiser
 //
-//  Created by Dhananjay Kumar Dubey on 04/11/18.
+//  Created by Kunal Kumar on 04/11/18.
 //  Copyright © 2018 Kunal Kumar. All rights reserved.
 //
 
